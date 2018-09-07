@@ -1,6 +1,6 @@
 # devpops-client
 
-To use this connector 
+To use this devpops-client 
 
 1. Download the provided sandbox-connector-1.0.0-RELEASE-default.zip file into your local system. 
 2. Extract the zip file into the desired location.  
