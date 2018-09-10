@@ -1,7 +1,7 @@
 # devpops-client
 
-To use this devpops-client 
+To use the devpops-client:
 
-1. Download the provided sandbox-connector-1.0.0-RELEASE-default.zip file into your local system. 
-2. Extract the zip file into the desired location.  
-3. The Extracted folder contains the binary files required to launch this DevPoPs Client. Please read the README.md file present inside the extracted folder for more details. 
+1. Download the `sandbox-connector-1.0.0-RELEASE-default.zip` file. 
+2. Extract the contents of the zip file to a directory. The extracted folder contains the binary files required to launch the DevPoPs Client.
+3. Review the extracted `README.md` file for details on configuring the DevPoPs Client.
