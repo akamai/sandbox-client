@@ -1,6 +1,6 @@
 # sandbox-client
 
-To use the sandbox-client:
+To use the sandbox-client, you need **Java version 17+**
 
 1. Download the `sandbox-client-1.5.1-RELEASE-default.zip` file. 
 2. Extract the contents of the zip file to a directory. The extracted folder contains the binary files required to launch the Sandbox Client.
